@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.lang.Error;
 
 public class CurrencyConverter {
   public static void main(String[] args) {
@@ -78,6 +77,6 @@ public class CurrencyConverter {
           JOptionPane.QUESTION_MESSAGE, null, choices, choices[0]);
     }
 
-    JOptionPane.showMessageDialog(null, "Bye!");
+    JOptionPane.showMessageDialog(null, "Thanks for using the program");
   }
 }

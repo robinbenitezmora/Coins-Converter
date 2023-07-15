@@ -127,7 +127,7 @@ public class CurrencyConverter {
       input = (String) JOptionPane.showInputDialog(
           null,
           "Choose now...",
-          "The Choice of a Lifetime",
+          "Menu",
           JOptionPane.QUESTION_MESSAGE,
           null,
           choices,

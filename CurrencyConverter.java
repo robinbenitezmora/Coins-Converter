@@ -146,7 +146,7 @@ public class CurrencyConverter {
 
     JOptionPane.showMessageDialog(
         null,
-        "Thanks for using the application",
+        "Thanks for using our new application",
         "Goodbye",
         JOptionPane.INFORMATION_MESSAGE);
   }

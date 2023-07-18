@@ -30,7 +30,7 @@ public class CurrencyConverter {
         if (input.equals("Dollars to Pesos")) {
           String dollars = JOptionPane.showInputDialog("Enter the amount of dollars");
           double dollars2 = Double.parseDouble(dollars);
-          double pesos = dollars2 * 4500;
+          double pesos = dollars2 * 4015;
           JOptionPane.showMessageDialog(
               null,
               "The amount of pesos is " + pesos,
@@ -39,7 +39,7 @@ public class CurrencyConverter {
         } else if (input.equals("Pesos to Dollars")) {
           String pesos = JOptionPane.showInputDialog("Enter the amount of pesos");
           double pesos2 = Double.parseDouble(pesos);
-          double dollars = pesos2 / 4500;
+          double dollars = pesos2 / 4015;
           JOptionPane.showMessageDialog(
               null,
               "The amount of dollars is " + dollars,
@@ -48,7 +48,7 @@ public class CurrencyConverter {
         } else if (input.equals("Euros to Pesos")) {
           String euros = JOptionPane.showInputDialog("Enter the amount of euros");
           double euros2 = Double.parseDouble(euros);
-          double pesos = euros2 * 5000;
+          double pesos = euros2 * 4516;
           JOptionPane.showMessageDialog(
               null,
               "The amount of pesos is " + pesos,
@@ -57,7 +57,7 @@ public class CurrencyConverter {
         } else if (input.equals("Pesos to Euros")) {
           String pesos = JOptionPane.showInputDialog("Enter the amount of pesos");
           double pesos2 = Double.parseDouble(pesos);
-          double euros = pesos2 / 5000;
+          double euros = pesos2 / 4516;
           JOptionPane.showMessageDialog(
               null,
               "The amount of euros is " + euros,
@@ -66,7 +66,7 @@ public class CurrencyConverter {
         } else if (input.equals("Esterlines to Pesos")) {
           String esterlines = JOptionPane.showInputDialog("Enter the amount of esterlines");
           double esterlines2 = Double.parseDouble(esterlines);
-          double pesos = esterlines2 * 5400;
+          double pesos = esterlines2 * 5254;
           JOptionPane.showMessageDialog(
               null,
               "The amount of pesos is " + pesos,
@@ -75,7 +75,7 @@ public class CurrencyConverter {
         } else if (input.equals("Pesos to Esterlines")) {
           String pesos = JOptionPane.showInputDialog("Enter the amount of pesos");
           double pesos2 = Double.parseDouble(pesos);
-          double esterlines = pesos2 / 5400;
+          double esterlines = pesos2 / 5254;
           JOptionPane.showMessageDialog(
               null,
               "The amount of esterlines is " + esterlines,
@@ -84,7 +84,7 @@ public class CurrencyConverter {
         } else if (input.equals("Yens to Pesos")) {
           String yens = JOptionPane.showInputDialog("Enter the amount of yens");
           double yens2 = Double.parseDouble(yens);
-          double pesos = yens2 * 28.9;
+          double pesos = yens2 * 28.97;
           JOptionPane.showMessageDialog(
               null,
               "The amount of pesos is " + pesos,
@@ -93,7 +93,7 @@ public class CurrencyConverter {
         } else if (input.equals("Pesos to Yens")) {
           String pesos = JOptionPane.showInputDialog("Enter the amount of pesos");
           double pesos2 = Double.parseDouble(pesos);
-          double yens = pesos2 / 28.9;
+          double yens = pesos2 / 28.97;
           JOptionPane.showMessageDialog(
               null,
               "The amount of yens is " + yens,

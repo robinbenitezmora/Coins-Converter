@@ -45,8 +45,7 @@ This is an application that allows users calculate the current value of their co
 
 ### Media and Live Demo <a name="presentation"></a>
 
-<!-- [Video presentation]<br/>
-[Deploy](https://my-budget-manager-c423.onrender.com) -->
+[Deploy](https://robinbenitezmora.github.io/Coins-Converter/) -->
 
 
 <!-- GETTING STARTED -->
